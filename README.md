@@ -5,6 +5,7 @@ Repo för en demo på hur man kan samarbeta på GitHub.
 
 * Repo att utgå från (en användare)
 * Den som vill bidra gör en fork, dvs. en kopia på GitHub
+ * Gå till repot och välj fork där
 * Gör sen ändringar och tillägg
 * Gör en pull request
 * Ägaren till repot kontrollerar, kan lägga till ändringarna (merge), och/eller kommentera förfrågan.
