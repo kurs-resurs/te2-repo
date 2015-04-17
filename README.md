@@ -16,3 +16,10 @@ Repo för en demo på hur man kan samarbeta på GitHub.
   * Välj settings
   * Välj Collaborators
   * Skriv in användarnamnet på personen som ska få rättigheter till repot
+
+## Begrepp
+ **Clone** - klona ett repo, göra en kopia av det
+ 
+ **Fork** - klona ett repo på GitHub
+ 
+ **Pull request** - begära att ändringar man gjort i ett repo ska läggas till
